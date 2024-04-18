@@ -25,10 +25,10 @@ public class Spartan5 {
 	 
 	>>>INCTEMENT/DECREMENT<<<
 	c = a++; = Post increment (first a stored in c then a will increase)
-	    a--; = pre increment
+	    ++a; = pre increment
 	 
-    c = ++a; = Post decrement(first a will increase then a stored in c )
-	    --a; = Post decrement
+        c = a--; = Post decrement(first a will increase then a stored in c )
+	    --a; = pret decrement
 	 */
 	}
 
